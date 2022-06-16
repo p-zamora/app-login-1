@@ -1,0 +1,4 @@
+enum SharedPreferencesEnum {
+  USUARIO,
+  TARJETA
+}
